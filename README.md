@@ -1,5 +1,9 @@
 # React + TypeScript + Vite + Yarn berry Template
 
+```
+"packageManager": "yarn@4.0.2"
+```
+
 ## 시작하기
 
 1. `yarn` or `yarn install`
